@@ -1,2 +1,2 @@
 # Buku-Angkatan
-Membuat Aplikasi Buku Angkatan CRUD
+Membuat Aplikasi Buku Angkatan CRUD menggunakan framework .NET
